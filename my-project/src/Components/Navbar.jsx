@@ -40,8 +40,8 @@ const Navbar= () => {
                     <Link to="/" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         Home
                     </Link>
-                    <Link to="/gallery" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
-                        Gallery
+                    <Link to="/hotel" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
+                        Hotel
                     </Link>
                     <Link to="/destination" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         Destination
