@@ -1,3 +1,5 @@
+//This JavaScript file stored the information array for destination.
+
 export const Outdoor_Arr = [
   {
     image: '/image/penang-hill.jpg',
@@ -12,7 +14,7 @@ export const Outdoor_Arr = [
   {
     image: '/image/fruit-farm.jpg',
     title: 'Tropical Fruit Farm',
-    description: 'Tours of 25 acres of hundreds of tropical & subtropical fruit trees, with samples included.'
+    description: 'Penang Tropical Fruit Farm is a vibrant, 25-acre orchard offering a unique taste of Malaysia\'s tropical bounty. Visitors can tour the farm, sample exotic fruits, and enjoy stunning views of the island\'s natural beauty.'
   },
   {
     image: '/image/jerejak-island.jpg',
@@ -24,7 +26,7 @@ export const Outdoor_Arr = [
 export const Historical_Arr = [
   {
     image: '/image/snake-temple.jpg',
-    title: 'Snake Temple, Bayan Lepas',
+    title: 'Snake Temple',
     description: 'The Snake Temple, also known as the Temple of the Azure Clouds, is a Chinese temple within George Town in the Malaysian state of Penang.'
   }, 
   {
@@ -34,12 +36,41 @@ export const Historical_Arr = [
   }, 
   {
     image: 'image/st-george-church.jpg',
-    title: 'St. George\'s Anglican Church, George Town',
+    title: 'St. George\'s Anglican Church',
     description: 'St. George\'s Church is a 19th-century Anglican church within George Town in the Malaysian state of Penang. The oldest purpose-built Anglican church in Southeast Asia, it was elevated by to the status of pro-cathedral in 2023.'
   }, 
   {
     image: '/image/burmese-temple.jpg',
-    title: 'Dhammikarama Burmese Temple, George Town',
+    title: 'Dhammikarama Burmese Temple',
     description: 'Dhammikarama Burmese Temple is a Theravada Buddhist temple within George Town in the Malaysian state of Penang.'
   }
 ]
+
+export const Amusement_Arr = [
+  {
+    image: '/image/escape-penang.jpg',
+    title: 'ESCAPE Penang',
+    description: 'Escape Penang is an exciting adventure park nestled in the jungle, offering a variety of thrilling outdoor activities. From zip-lining to obstacle courses, it\'s the perfect place for adrenaline seekers and nature lovers alike, blending fun with breathtaking scenery.'
+  },
+  {
+    image: '/image/the-top.jpg',
+    title: 'The TOP Penang',
+    description: 'The TOP Penang is a dynamic entertainment hub located in George Town, featuring thrilling attractions like the Rainbow Skywalk, an indoor theme park, and the Sky Tower with stunning panoramic views. It\'s a perfect blend of excitement, shopping, and dining for all ages.'
+  },
+  {
+    image: '/image/bertam-souk.jpg',
+    title: 'Bertam Souk & Water Park',
+    description: 'Escape the ordinary and embark on an exhilarating adventure at Bertam Souk & Water Park, Penang. Plunge down thrilling water slides, ride the waves in a giant wave pool, and unwind in a serene lazy river. With over 14 exhilarating rides and attractions, this Moroccan-themed water park promises a day of unforgettable fun for the whole family.'
+  },
+  {
+    image: '/image/adventure-zone.jpg',
+    title: 'Adventure Zone',
+    description: 'Adventure Zone in Penang is an indoor amusement park packed with fun for all ages. Featuring a range of exciting attractions, from thrilling slides to obstacle courses, it\'s the perfect place for families to enjoy an active, adventurous day indoors.'
+  },
+]
+
+export const Outdoor_desc = "A scenic escape into nature, offering activities like hiking, picnicking, or simply soaking in breathtaking landscapes and fresh air.";
+
+export const Historical_desc = "A glimpse into the past through preserved architecture and artifacts, telling stories of culture, heritage, and significant events.";
+
+export const Amusement_desc = "A lively destination with thrilling rides, games, and entertainment, perfect for family fun and creating unforgettable memories.";
