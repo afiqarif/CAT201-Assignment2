@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from "./Pages/Home";
 import Hotel from "./Pages/Hotel";
 import HotelDetails from "./Components/Hotel/HotelDetails"; // Updated path
-import Places from "./Pages/destination.jsx";
+import Places from "./Pages/Destination.jsx";
 import Navbar from "./Components/Navbar.jsx";
 import Foods from './Pages/FoodPages.jsx';
 import Food_details from './Components/FoodBeverage/Food_details.jsx';
