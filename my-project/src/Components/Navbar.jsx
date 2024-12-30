@@ -46,7 +46,7 @@ const Navbar= () => {
                     <Link to="/destination" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         Tourism Spots
                     </Link>
-                    <Link to="/about" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
+                    <Link to="/hotel" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         Hotels
                     </Link>
                     <button
