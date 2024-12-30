@@ -40,19 +40,19 @@ const Navbar= () => {
                     <Link to="/" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         Home
                     </Link>
-                    <Link to="/hotel" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
-                        Hotel
+                    <Link to="/gallery" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
+                        Food & Beverages
                     </Link>
                     <Link to="/destination" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
-                        Destination
+                        Tourism Spots
                     </Link>
                     <Link to="/about" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
-                        About
+                        Hotels
                     </Link>
                     <button
                         className="py-2 px-6 border bg-gray-300 hover:bg-gray-600 border-none hover:text-white transform transition hover:scale-110"
                     >
-                        Login
+                        Others
                     </button>
                 </div>
                 {/* Mobile Menu Button */}
