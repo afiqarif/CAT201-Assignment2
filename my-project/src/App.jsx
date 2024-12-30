@@ -6,6 +6,7 @@ import HotelDetails from "./Components/Hotel/HotelDetails"; // Updated path
 import Places from "./Pages/destination.jsx";
 import Navbar from "./Components/Navbar.jsx";
 import History from './Pages/History.jsx';
+import DestinationDetail from './Components/Destination/DestinationDetails.jsx';
 
 const App = () => {
   return (
@@ -17,6 +18,8 @@ const App = () => {
         <Route path="/hotel/:id" element={<HotelDetails />} /> {/* Dynamic route */}
         <Route path="/destination" element={<Places />} />
         <Route path="/history" element={<History />} />
+        <Route path="/destination/:id" element={<DestinationDetail />} /> {/* Dynamic route */}
+
       </Routes>
     </BrowserRouter>
   );
