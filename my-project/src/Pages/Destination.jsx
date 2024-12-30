@@ -18,7 +18,7 @@ const Destination = () => {
         <h1 className='text-4xl md:text-6xl font-bold text-white mb-4'>
           Destination
         </h1>
-        <p className='text-lg nd:text-2xl text-white mb-8'>
+        <p className='text-lg md:text-2xl text-white mb-8'>
           Check out these interesting destinations!
         </p>
       </div>
