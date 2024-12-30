@@ -119,9 +119,9 @@ export const Historical_Arr = [
     location: 'Air Itam, Penang, Malaysia'
   }, 
   {
-    image: 'image/st-george-church.jpg',
-    title: 'St. George\’s Church',
-    description: 'St. George\’s Church, located in George Town, Penang, is one of the oldest Anglican churches in Southeast Asia, built in 1818. This colonial-era church features classic Georgian architecture and a peaceful ambiance, making it a historical landmark in Penang. It remains an active place of worship and is open for visitors to explore its serene surroundings and beautiful interior.',
+    image: '/image/st-george-church.jpg',
+    title: 'St. George\'s Church',
+    description: 'St. George\'s Church, located in George Town, Penang, is one of the oldest Anglican churches in Southeast Asia, built in 1818. This colonial-era church features classic Georgian architecture and a peaceful ambiance, making it a historical landmark in Penang. It remains an active place of worship and is open for visitors to explore its serene surroundings and beautiful interior.',
     rating: 4.3,
     ratingSource: 'TripAdvisor',
     facilities: [
