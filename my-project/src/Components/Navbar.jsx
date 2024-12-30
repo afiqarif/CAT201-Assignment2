@@ -49,11 +49,9 @@ const Navbar= () => {
                     <Link to="/hotel" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         Hotels
                     </Link>
-                    <button
-                        className="py-2 px-6 border bg-gray-300 hover:bg-gray-600 border-none hover:text-white transform transition hover:scale-110"
-                    >
-                        Others
-                    </button>
+                    <Link to="/History" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
+                        History
+                    </Link>
                 </div>
                 {/* Mobile Menu Button */}
                 <div className="md:hidden">
@@ -77,7 +75,9 @@ const Navbar= () => {
                     <Link to="/about" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         About
                     </Link>
-                    <button className="py-2 px-6 border bg-gray-300">Login</button>
+                    <Link to="/history" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
+                        History
+                    </Link>
                 </div>
             )}
         </nav>
