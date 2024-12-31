@@ -66,14 +66,14 @@ const Navbar= () => {
                     <Link to="/" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         Home
                     </Link>
-                    <Link to="/gallery" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
-                        Gallery
+                    <Link to="/food" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
+                        Food & Beverages
                     </Link>
                     <Link to="/destination" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         Destination
                     </Link>
-                    <Link to="/about" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
-                        About
+                    <Link to="/hotel" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
+                        Hotels
                     </Link>
                     <Link to="/history" className="px-6 py-2 hover:bg-gray-600 hover:text-white">
                         History
