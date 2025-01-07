@@ -2,18 +2,18 @@ import React from 'react'
 
 const historical = [
     {
-        image: '/image/sultanate.jpg',
+        image: '/CAT201-Assignment2/image/sultanate.jpg',
         title: 'The Sultanate’s Quiet Beginnings',
         description: 'Before the 18th century, Penang Island thrived under the Sultanate of Kedah as a peaceful trading hub. Occasionally visited by Portuguese, Chinese, and British expeditions, its strategic location and natural harbor hinted at its untapped potential. However, rising tensions with Siam and Burma in the 1770s pushed the Sultan to seek foreign military support.',
     },
     {
-        image: '/image/british-take-charge.jpg',
+        image: '/CAT201-Assignment2/image/british-take-charge.jpg',
         title: 'The British Take Charge',
         description:
             'In 1786, Francis Light, a British explorer, secured Penang Island for the British East India Company as a strategic settlement. Renamed "Prince of Wales Island," Penang became the first British foothold in Southeast Asia. The bustling port town of George Town was established, laying the foundation for its growth as a major trading center.',
     },
     {
-        image: '/image/modern-revival.jpg',
+        image: '/CAT201-Assignment2/image/modern-revival.jpg',
         title: 'Rebirth and Modern Revival',
         description: 'The 1970s marked Penang’s comeback with the creation of the Free Industrial Zone, enticing global corporations to set up operations. The 2008 UNESCO designation for George Town further cemented Penang’s role as a heritage and innovation hub, blending its rich past with a forward-looking vision.',
     },

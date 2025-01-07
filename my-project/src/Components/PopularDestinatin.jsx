@@ -3,22 +3,22 @@ import { useNavigate } from 'react-router-dom';
 
 const destinations = [
     {
-        image: '/Images/penang-hill.jpg',
+        image: '/CAT201-Assignment2/Images/penang-hill.jpg',
         title: 'Penang Hill',
         description: 'Penang Hill, also known as Bukit Bendera, is a hill resort comprising a group of peaks near the center of Penang Island, Malaysia. Standing at 833 meters (2,733 feet) above sea level, it offers panoramic views of George Town and the surrounding area. The hill is accessible via the Penang Hill Railway, a funicular system that transports visitors to the summit. Attractions include nature trails, heritage bungalows, and diverse flora and fauna'
     },
     {
-        image: '/Images/snake-temple.jpg',
+        image: '/CAT201-Assignment2/Images/snake-temple.jpg',
         title: 'Snake Temple',
         description: 'The Snake Temple, or Temple of the Azure Cloud, is a Buddhist temple in Bayan Lepas, Penang, famous for its live pit vipers that are allowed to roam freely within the temple. Built in 1850, the temple is dedicated to the deity Chao Sua, who is believed to have healing powers. Visitors can witness the unique spectacle of snakes curled around the altars and other areas of the temple.'
     },
     {
-        image: '/Images/escape-penang.jpg',
+        image: '/CAT201-Assignment2/Images/escape-penang.jpg',
         title: 'ESCAPE Penang',
         description: 'Escape Penang is an exciting outdoor adventure park located in Teluk Bahang, Penang, offering a wide range of fun activities for all ages. The park features various thrilling attractions, including rope courses, water slides, zip lines, and an obstacle course. With a focus on eco-friendly adventure, Escape provides visitors with an immersive experience in nature, promoting both physical and mental challenges.'
     },
     {
-        image: '/image/the-top.jpg',
+        image: '/CAT201-Assignment2/image/the-top.jpg',
         title: 'The Top Penang',
         description: 'The Top Penang is a modern entertainment complex located at the George Town heritage area. The tower offers spectacular views from its observation deck, and it features a wide variety of attractions, including a 3D art museum, digital wonderland, glass skywalk, and themed restaurants. Visitors can also enjoy an immersive experience at the Jurassic Research Center and other interactive exhibits.',
     },

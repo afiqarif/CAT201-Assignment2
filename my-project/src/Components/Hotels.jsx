@@ -3,22 +3,22 @@ import { useNavigate } from 'react-router-dom';
 
 const hotels = [
     {
-        image: '/Images/eastern-oriental-hotel.jpg',
+        image: '/CAT201-Assignment2/Images/eastern-oriental-hotel.jpg',
         title: 'Eastern & Oriental Hotel',
         description: 'A timeless luxury hotel in George Town, Penang, offering colonial charm, elegant suites, and exceptional dining experiences with stunning waterfront views.'
     },
     {
-        image: '/image/the-blue-mansion.jpg',
+        image: '/CAT201-Assignment2/image/the-blue-mansion.jpg',
         title: 'The Blue Mansion',
         description: 'Step into history at The Blue Mansion, a UNESCO Heritage site offering exquisite boutique accommodations with timeless charm and culture.',
     },
     {
-        image: '/image/roomies-penang.jpg',
+        image: '/CAT201-Assignment2/image/roomies-penang.jpg',
         title: 'Roomies Penang',
         description: 'A cozy budget-friendly hotel located in Batu Ferringhi, offering comfortable rooms, free Wi-Fi, and easy access to the beach.',
     },
     {
-        image: '/image/tune-hotel.jpg',
+        image: '/CAT201-Assignment2/image/tune-hotel.jpg',
         title: 'Tune Hotel Georgetown',
         description: 'An affordable and convenient option in George Town, providing clean and comfortable rooms with a strategic location for exploring Penang.',
     },

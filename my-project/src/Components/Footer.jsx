@@ -1,6 +1,5 @@
 import React from 'react'
 import { FaInstagram, FaTiktok } from 'react-icons/fa'
-import { Link } from 'react-router-dom'
 const Footer = () => {
   return (
     <div className='bg-gray-800 p-4 text-white py-8'>

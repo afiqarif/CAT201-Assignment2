@@ -3,23 +3,23 @@ import { useNavigate } from 'react-router-dom';
 
 const meals = [
     {
-        image: '/image/nasikandarr.jpg',
+        image: '/CAT201-Assignment2/image/nasikandarr.jpg',
         title: 'Nasi Kandar',
     description: 'A traditional Penang dish consisting of steamed rice served with a variety of flavorful curries and side dishes, originating from Indian Muslim cuisine.',
 
     },
     {
-        image: '/image/charkoayteow.jpg',
+        image: '/CAT201-Assignment2/image/charkoayteow.jpg',
         title: 'Char Koay Teow',
         description: 'A popular street food featuring stir-fried flat rice noodles cooked over high heat with prawns, Chinese sausage, eggs, and bean sprouts. It’s known for its smoky flavor called "wok hei".',
     },
     {
-        image: '/image/pasembur.jpg',
+        image: '/CAT201-Assignment2/image/pasembur.jpg',
         title: 'Pasembur',
         description: 'A Malaysian Indian salad consisting of shredded vegetables, fried tofu, prawn fritters, boiled eggs, and a spicy-sweet peanut sauce. This dish is a flavorful and satisfying street food favorite in Penang.',
     },
     {
-        image: '/image/tehtarik.jpg',
+        image: '/CAT201-Assignment2/image/tehtarik.jpg',
         title: 'Teh Tarik',
         description: 'Malaysia’s national drink, this "pulled tea" is a frothy milk tea prepared by pouring the mixture between two containers for a creamy texture.',
     },

@@ -32,7 +32,7 @@ const History = () => {
             {/* Background Section */}
             <div
                 className="relative h-96 bg-cover bg-center"
-                style={{ backgroundImage: "url(/image/bg-history.jpg)" }}
+                style={{ backgroundImage: "url(/CAT201-Assignment2/image/bg-history.jpg)" }}
             >
                 <div className="absolute inset-0 bg-gray-600 bg-opacity-50 flex flex-col items-center justify-center">
                     <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">Penang History</h1>

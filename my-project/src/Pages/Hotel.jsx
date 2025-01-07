@@ -14,7 +14,7 @@ const hotel = () => {
     <>
       <div
         className='relative h-96 bg-cover bg-center'
-        style={{ backgroundImage: "url(/image/bg-hotel.jpg)" }}
+        style={{ backgroundImage: "url(/CAT201-Assignment2/image/bg-hotel.jpg)" }}
       >
         <div className='absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center'>
           <h1 className='text-4xl md:text-6xl font-bold text-white mb-4'>Hotels in Penang</h1>
