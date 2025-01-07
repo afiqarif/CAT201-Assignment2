@@ -14,10 +14,10 @@ import Footer from './Components/Footer.jsx';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/CAT201-Assignment2'>
       <Navbar />
       <Routes>
-        <Route path="/CAT201-Assignment2" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/hotel" element={<Hotel />} />
         <Route path="/hotel/:id" element={<HotelDetails />} /> {/* Dynamic route */}
         <Route path="/destination" element={<Places />} />
