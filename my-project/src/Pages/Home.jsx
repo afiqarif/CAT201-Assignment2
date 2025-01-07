@@ -11,7 +11,7 @@ const Home = () => {
     <div className="relative h-screen">
         <video
           className="absolute inset-0 w-full h-full object-cover"
-          src="/Images/video1.mp4"
+          src="/CAT201-Assignment2/Images/video1.mp4"
           autoPlay
           loop
           muted
