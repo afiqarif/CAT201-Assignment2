@@ -17,7 +17,7 @@ const App = () => {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/CAT201-Assignment2" element={<Home />} />
         <Route path="/hotel" element={<Hotel />} />
         <Route path="/hotel/:id" element={<HotelDetails />} /> {/* Dynamic route */}
         <Route path="/destination" element={<Places />} />
