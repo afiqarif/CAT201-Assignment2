@@ -9,6 +9,7 @@ import Foods from './Pages/FoodPages.jsx';
 import Food_details from './Components/FoodBeverage/Food_details.jsx';
 import History from './Pages/History.jsx';
 import DestinationDetail from './Components/Destination/DestinationDetails.jsx';
+import Footer from './Components/Footer.jsx';
 
 
 const App = () => {
@@ -26,6 +27,7 @@ const App = () => {
         <Route path="/destination/:id" element={<DestinationDetail />} /> {/* Dynamic route */}
 
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 };
