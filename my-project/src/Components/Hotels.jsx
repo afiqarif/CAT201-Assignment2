@@ -41,7 +41,7 @@ const Hotels = () => {
                     >
                         <img src={hotel.image} alt={hotel.title} className="w-full h-48 object-cover transform transition duration-300 hover:scale-110" />
                         <div className="p-4">
-                            <h3 className="text-xl font-bold mb-2">{hotel.title}</h3>
+                            <h3 className="text-xl font-bold mb-2 text-center">{hotel.title}</h3>
                             <p className="text-gray-600">{hotel.description}</p>
                         </div>
                     </div>

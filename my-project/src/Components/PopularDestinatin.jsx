@@ -39,9 +39,10 @@ const PopularDestinatin = () => {
                     className={`bg-white rounded-lg shadow-md overflow-hidden cursor-pointer group relative ${index % 3 === 1 ? 'col-span-1 mx-auto' : ''}`}
                       onClick={() => navigate(`/destination/${city.title.replace(/\s+/g, '-').toLowerCase()}`)}
                       >
-                        <img src={city.image} alt={city.title} className="w-full h-48 object-cover transform transition duration-300 hover:scale-110" />
+                        <img src={city.image} alt={city.title}
+                            className="w-full h-48 object-cover transform transition duration-300 hover:scale-110" />
                         <div className="p-4">
-                            <h3 className="text-xl font-bold mb-2">{city.title}</h3>
+                            <h3 className="text-xl font-bold mb-2 text-center">{city.title}</h3>
                             <p className="text-gray-600">{city.description}</p>
                         </div>
                     </div>

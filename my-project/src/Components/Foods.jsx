@@ -42,7 +42,7 @@ const Foods = () => {
                     onClick={() => navigate(`/food/${meal.title.replace(/\s+/g, '-').toLowerCase()}`)}>
                         <img src={meal.image} alt={meal.title} className="w-full h-48 object-cover transform transition duration-300 hover:scale-110" />
                         <div className="p-4">
-                            <h3 className="text-xl font-bold mb-2">{meal.title}</h3>
+                            <h3 className="text-xl font-bold mb-2 text-center">{meal.title}</h3>
                             <p className="text-gray-600">{meal.description}</p>
                         </div>
                     </div>

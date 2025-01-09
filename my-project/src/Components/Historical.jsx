@@ -33,7 +33,7 @@ const Historical = () => {
                     className="bg-white rounded-lg shadow-md overflow-hidden cursor-pointer">
                         <img src={history.image} alt={history.title} className="w-full h-48 object-cover transform transition duration-300 hover:scale-110" />
                         <div className="p-4">
-                            <h3 className="text-xl font-bold mb-2">{history.title}</h3>
+                            <h3 className="text-xl font-bold mb-2 text-center">{history.title}</h3>
                             <p className="text-gray-600">{history.description}</p>
                         </div>
                     </div>
